@@ -1,6 +1,6 @@
-# travel_path
+# Travel Path
 
-**travel_path** is an interactive web app built with [Streamlit](https://streamlit.io/) for generating and visualizing driving routes between two locations using the Google Maps Directions API. The app displays a dynamic map with the route, calculates estimated travel time and distance, and provides step-by-step driving instructions.
+**Travel Path** is an interactive web app built with [Streamlit](https://streamlit.io/) for generating and visualizing driving routes between two locations using the Google Maps Directions API. The app displays a dynamic map with the route, calculates estimated travel time and distance, and provides step-by-step driving instructions.
 
 ## Features
 
@@ -12,7 +12,7 @@
 
 ## Demo
 
-![travel_path demo screenshot](demo_screenshot.png)  
+![travel_path demo screenshot](demo.gif)  
 *Example: Route from Merida to Guanajuato.*
 
 ## Getting Started
